@@ -20,8 +20,7 @@ print("""
 gay = "type r to rotate it right l to rotate it left"
 print(gay)
 input()
-l = True
-if l:
+
       
 
 print("""
