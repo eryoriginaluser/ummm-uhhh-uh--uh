@@ -1,3 +1,5 @@
+print(" i only made 5 out of 8 angles because I FORGOT")
+
 print("""
       ;.:)
      .` ' `-*
@@ -15,3 +17,5 @@ print("""
               .# `.            / / ` ;
               /_ /           /_/  /_/
 """)
+gay = "type one to rotate it right two to rotate it left"
+print("gay")
