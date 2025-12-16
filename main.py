@@ -17,9 +17,12 @@ print("""
               .# `.            / / ` ;
               /_ /           /_/  /_/
 """)
-gay = "type one to rotate it right two to rotate it left"
+gay = "type r to rotate it right l to rotate it left"
 print(gay)
-input(int())
+input()
+l = True
+if l:
+      
 
 print("""
             «,.»
