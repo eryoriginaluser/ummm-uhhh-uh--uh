@@ -1,7 +1,8 @@
-print(" i only made 5 out of 8 angles because I FORGOT")
+#i only made 5 out of 8 angles because I FORGOT
 
-print("""
-      ;.:)
+horse1 =
+ """      
+       ;.:)
      .` ' `-*
     /.:      *`*..
    :   ,.-       *:.,         ... ,_
@@ -16,8 +17,9 @@ print("""
               |##:             ;#; ;#;
               .# `.            / / ` ;
               /_ /           /_/  /_/
-""")
+"""
 gay = "type r to rotate it right l to rotate it left"
+print(horse1)
 print(gay)
 input()
 
