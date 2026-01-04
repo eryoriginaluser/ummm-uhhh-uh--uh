@@ -96,3 +96,4 @@ horse5 = """
 gay = "1 to make the horse turn left 2 to make it turn right"
 print(horse1)
 print(gay)
+input()
