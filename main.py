@@ -108,11 +108,10 @@ horse8 = """
           :  :   :  :
           | :     : |
           |  ;   ;  |
-          : :     : :
-          ;_;     ;_;
-          :__;    *--*
+          : .     . :
+          ;_\     /_;   
           """
-
+#im so burnt out from this i dont feel like continuing it
 horse7 = """
 
           
